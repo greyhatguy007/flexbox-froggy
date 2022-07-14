@@ -19,6 +19,8 @@ Contains Solutions to Problems on [Flexbox Froggy](https://flexboxfroggy.com/)
 
 </div>
 
+<br>
+
 <div>
 
 - [Level 2](/solutionn/2.css)
@@ -28,6 +30,8 @@ Contains Solutions to Problems on [Flexbox Froggy](https://flexboxfroggy.com/)
 
 </div>
 
+<br>
+
 <div>
 
 - [Level 3](/solutionn/3.css)
@@ -36,6 +40,8 @@ Contains Solutions to Problems on [Flexbox Froggy](https://flexboxfroggy.com/)
 <img src="resources/3b.png" height=175px align=center>
 
 </div>
+
+<br>
 
 <div>
 
@@ -55,6 +61,8 @@ Contains Solutions to Problems on [Flexbox Froggy](https://flexboxfroggy.com/)
 
 </div>
 
+<br>
+
 <div>
 
 - [Level 6](/solutionn/6.css)
@@ -63,6 +71,8 @@ Contains Solutions to Problems on [Flexbox Froggy](https://flexboxfroggy.com/)
 <img src="resources/6b.png" height=175px align=center>
 
 </div>
+
+<br>
 
 <div>
 
@@ -73,6 +83,8 @@ Contains Solutions to Problems on [Flexbox Froggy](https://flexboxfroggy.com/)
 
 </div>
 
+<br>
+
 <div>
 
 - [Level 8](/solutionn/8.css)
@@ -81,6 +93,8 @@ Contains Solutions to Problems on [Flexbox Froggy](https://flexboxfroggy.com/)
 <img src="resources/8b.png" height=175px align=center>
 
 </div>
+
+<br>
 
 <div>
 
@@ -91,6 +105,8 @@ Contains Solutions to Problems on [Flexbox Froggy](https://flexboxfroggy.com/)
 
 </div>
 
+<br>
+
 <div>
 
 - [Level 10](/solutionn/10.css)
@@ -99,6 +115,8 @@ Contains Solutions to Problems on [Flexbox Froggy](https://flexboxfroggy.com/)
 <img src="resources/10b.png" height=175px align=center>
 
 </div>
+
+<br>
 
 <div>
 
@@ -109,6 +127,8 @@ Contains Solutions to Problems on [Flexbox Froggy](https://flexboxfroggy.com/)
 
 </div>
 
+<br>
+
 <div>
 
 - [Level 12](/solutionn/12.css)
@@ -117,6 +137,8 @@ Contains Solutions to Problems on [Flexbox Froggy](https://flexboxfroggy.com/)
 <img src="resources/12b.png" height=175px align=center>
 
 </div>
+
+<br>
 
 <div>
 
@@ -127,6 +149,8 @@ Contains Solutions to Problems on [Flexbox Froggy](https://flexboxfroggy.com/)
 
 </div>
 
+<br>
+
 <div>
 
 - [Level 14](/solutionn/14.css)
@@ -135,6 +159,8 @@ Contains Solutions to Problems on [Flexbox Froggy](https://flexboxfroggy.com/)
 <img src="resources/14b.png" height=175px align=center>
 
 </div>
+
+<br>
 
 <div>
 
@@ -145,6 +171,8 @@ Contains Solutions to Problems on [Flexbox Froggy](https://flexboxfroggy.com/)
 
 </div>
 
+<br>
+
 <div>
 
 - [Level 16](/solutionn/16.css)
@@ -153,6 +181,8 @@ Contains Solutions to Problems on [Flexbox Froggy](https://flexboxfroggy.com/)
 <img src="resources/16b.png" height=175px align=center>
 
 </div>
+
+<br>
 
 <div>
 
@@ -163,6 +193,8 @@ Contains Solutions to Problems on [Flexbox Froggy](https://flexboxfroggy.com/)
 
 </div>
 
+<br>
+
 <div>
 
 - [Level 18](/solutionn/18.css)
@@ -172,6 +204,8 @@ Contains Solutions to Problems on [Flexbox Froggy](https://flexboxfroggy.com/)
 
 </div>
 
+<br>
+
 <div>
 
 - [Level 19](/solutionn/19.css)
@@ -179,7 +213,9 @@ Contains Solutions to Problems on [Flexbox Froggy](https://flexboxfroggy.com/)
 <img src="resources/19a.png" height=175px align=left> --->
 <img src="resources/19b.png" height=175px align=center>
 
-</div2
+</div>
+
+<br>
 
 <div>
 
@@ -189,6 +225,8 @@ Contains Solutions to Problems on [Flexbox Froggy](https://flexboxfroggy.com/)
 <img src="resources/20b.png" height=175px align=center>
 
 </div>
+
+<br>
 
 <div>
 
@@ -208,6 +246,8 @@ Contains Solutions to Problems on [Flexbox Froggy](https://flexboxfroggy.com/)
 
 </div>
 
+<br>
+
 <div>
 
 - [Level 23](/solutionn/23.css)
@@ -216,6 +256,8 @@ Contains Solutions to Problems on [Flexbox Froggy](https://flexboxfroggy.com/)
 <img src="resources/23b.png" height=175px align=center>
 
 </div>
+
+<br>
 
 <div>
 
